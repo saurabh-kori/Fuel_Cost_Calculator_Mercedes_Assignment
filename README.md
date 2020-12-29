@@ -5,7 +5,7 @@ A fuel cost calculator is an api. In which in between two activity there is one 
 1. Any IDE (I am using vs code here).
 2. Erlang
 3. RabbitMQ Msg broker
-4. Java jdk required.
+4. Java 8 jdk is required.
 
 #Step-1 (Download and configure rabbitMQ broker )
 -> Download rabbitMQ and unzip it.
